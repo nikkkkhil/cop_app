@@ -23,7 +23,7 @@ This project is a starting point for a Flutter application.
     <td>First Staff Screen</td>
      <td>Staff Chat Screen</td>
      <td>Live location of Staff</td>
-        <td>Calling staff </td>
+        <td>Calling staff directly from chatroom</td>
 
   </tr>
   <tr>
