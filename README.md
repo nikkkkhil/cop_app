@@ -11,8 +11,6 @@ This project is a starting point for a Flutter application.
      <td>Holiday Mention</td>
      <td>Present day in purple and selected day in pink</td>
         <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
     <td><img src="cop_app/1.jpg" width=270 height=480></td>
