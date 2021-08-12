@@ -9,7 +9,7 @@ An app for police department to monitor staff with real time chat and call suppo
     <td>Login Screen</td>
      <td>Home Page with task discription, staff profile and current location info</td>
      <td>Staff , vehicle, Team info</td>
-        <td>Staff , vehicle, Team infoStaff , vehicle, Team infoStaff , vehicle, Team info  with sorting option for staff, team , vehicle</td>
+        <td>Staff , vehicle, Team info  with sorting option for staff, team , vehicle</td>
   </tr>
   <tr>
     <td><img src="cop_app/1.jpg" width=270 height=480></td>
@@ -19,7 +19,7 @@ An app for police department to monitor staff with real time chat and call suppo
 
   </tr>
     <tr>
-    <td>First Staff Screen</td>
+    <td>Search option for Staff Screen</td>
      <td>Staff Chat Screen</td>
      <td>Live location of Staff</td>
         <td>Calling staff directly from chatroom</td>
