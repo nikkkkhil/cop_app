@@ -1,10 +1,9 @@
-# new_cop
+# cop_app
 
-A new Flutter project.
+An app for police department to monitor staff with real time chat and call support along with creating reports and activiites built using flutter framework.
 
-## Getting Started
+## Screenshots of an app
 
-This project is a starting point for a Flutter application.
 <table>
   <tr>
     <td>Login Screen</td>
