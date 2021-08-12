@@ -7,10 +7,10 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
-        <td>First Screen Page</td>
+    <td>Login Screen</td>
+     <td>Home Page with task discription, staff profile and current location info</td>
+     <td>Staff , vehicle, Team info</td>
+        <td>Staff , vehicle, Team infoStaff , vehicle, Team infoStaff , vehicle, Team info  with sorting option for staff, team , vehicle</td>
   </tr>
   <tr>
     <td><img src="cop_app/1.jpg" width=270 height=480></td>
@@ -20,10 +20,10 @@ This project is a starting point for a Flutter application.
 
   </tr>
     <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
-        <td>First Screen Page</td>
+    <td>First Staff Screen</td>
+     <td>Staff Chat Screen</td>
+     <td>Live location of Staff</td>
+        <td>Calling staff </td>
 
   </tr>
   <tr>
@@ -34,10 +34,10 @@ This project is a starting point for a Flutter application.
 
   </tr>
     <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
-        <td>First Screen Page</td>
+    <td>Vehicle Info Screen</td>
+     <td>Team chat room screen</td>
+     <td>Brooacast Screen</td>
+        <td>Live location of staff, groups, vehicles</td>
 
   </tr>
   <tr>
@@ -48,10 +48,10 @@ This project is a starting point for a Flutter application.
 
   </tr>
     <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
-        <td>First Screen Page</td>
+    <td>Live location of staff, groups, vehicles in dark mode</td>
+     <td>Staff Officer bio information</td>
+     <td>list of sho staff screen</td>
+        <td>List of staff , policestation, vechicle screen</td>
 
   </tr>
   <tr>
@@ -62,10 +62,10 @@ This project is a starting point for a Flutter application.
 
   </tr>
     <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
-        <td>First Screen Page</td>
+    <td>List of Sho Staffs details screen</td>
+     <td>List of Team details screen</td>
+     <td>List of vehicle details screen</td>
+        <td>list of staff details screen</td>
 
   </tr>
   <tr>
@@ -75,10 +75,10 @@ This project is a starting point for a Flutter application.
      <td><img src="cop_app/20.jpg" width=270 height=480></td>
   </tr>
     <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-           <td>Present day in purple and selected day in pink</td>
-        <td>First Screen Page</td>
+    <td>List of checkpost details screen</td>
+     <td>Individual checkpost details screen</td>
+           <td>Location of checkpost in map</td>
+        <td>Details of staff performance</td>
 
   </tr>
   <tr>
@@ -89,10 +89,10 @@ This project is a starting point for a Flutter application.
 
   </tr>
       <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-           <td>Present day in purple and selected day in pink</td>
-        <td>First Screen Page</td>
+    <td>Update profile screen</td>
+     <td>Log report screen</td>
+           <td>Common settings screen</td>
+        <td>Profile update screen</td>
 
   </tr>
   <tr>
@@ -103,10 +103,10 @@ This project is a starting point for a Flutter application.
 
   </tr>
       <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-           <td>Present day in purple and selected day in pink</td>
-        <td>First Screen Page</td>
+    <td>Notifications screen</td>
+     <td>Notifications of logged screen</td>
+           <td>Report details screen</td>
+        <td>Home page with dark map</td>
 
   </tr>
   <tr>
