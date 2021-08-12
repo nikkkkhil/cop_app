@@ -106,7 +106,7 @@ This project is a starting point for a Flutter application.
     <td>Notifications screen</td>
      <td>Notifications of logged screen</td>
            <td>Report details screen</td>
-        <td>Home page with dark map</td>
+        <td>Home page with dark  map</td>
 
   </tr>
   <tr>
